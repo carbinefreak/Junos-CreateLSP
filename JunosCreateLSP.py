@@ -16,7 +16,7 @@ def main():
 # Constants Modify for Devices and Network
 	data = {}
 	username = "admin"
-	password = "motorola"
+	password = "password"
 	isHeader = True
 	retryTimer = "10"
 	optimizeTimer = "120"
